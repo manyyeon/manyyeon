@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=manyyeon&fontSize=90)
-### Hi there 👋
+### Tech Stack
+<img src="https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=swift.svg&logoColor=black">
 
 <!--
 **manyyeon/manyyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
