@@ -16,8 +16,9 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a> &nbsp  
 
-![Manyyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=manyyeon&show_icons=true&theme=radical)</a> &nbsp
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manyyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>![Manyyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=manyyeon&show_icons=true&theme=radical)</div></a> &nbsp
+<div>[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manyyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div></a> &nbsp
+
 
 
 <!--
