@@ -16,10 +16,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a> &nbsp  
 
-<p align="center"/>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manyyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Manyyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=manyyeon&show_icons=true&theme=default_repocard)
-
 
 <!--
 **manyyeon/manyyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
