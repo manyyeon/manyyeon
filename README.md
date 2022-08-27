@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=CSS Modules&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"></a> &nbsp
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a> &nbsp  
