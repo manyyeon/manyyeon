@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"></a> &nbsp  
 <img src="https://img.shields.io/badge/recoil-f26b00?style=for-the-badge&logo=Recoil&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a> &nbsp
-<img src="https://img.shields.io/badge/Nest.js"></a> &nbsp
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge"></a> &nbsp
 
 
 
