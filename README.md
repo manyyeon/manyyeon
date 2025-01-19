@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=header&text=manyyeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=header&text=Dayeon&fontSize=90)
+
+<center>**[Personal Website](https://rainy-bandana-838.notion.site/Dayeon-Yoo-13c632e2aefe4f998302108e35a30513?pvs=4)**</center>
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 </br>
