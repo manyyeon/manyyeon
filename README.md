@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://rainy-bandana-838.notion.site/Dayeon-Yoo-13c632e2aefe4f998302108e35a30513?pvs=4" target="_blank" style="font-size:24; font-weight: bold; background-color: crimson;"">Personal Website</a>
+<a href="https://rainy-bandana-838.notion.site/Dayeon-Yoo-13c632e2aefe4f998302108e35a30513?pvs=4" target="_blank" style="font-size:54rem"><h1>Personal Website</h1></a>
 </div>
 
 </br></br>
