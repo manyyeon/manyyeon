@@ -18,9 +18,8 @@ My broader interests include:
 
 ## Current research
 
-**Automated Discovery of Hypergraph Product and Bivariate Bicycle Codes via Suppression of Low-Weight Logical Patterns**
+**Accelerating Quantum LDPC Code Optimization Through Adversarial Games**
 
-Developing search objectives based on low-weight logical patterns to identify improved qLDPC code constructions without repeatedly running logical-error-rate simulations.
 
 ## Technical tools
 
